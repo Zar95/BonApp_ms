@@ -1,9 +1,39 @@
 .divider{
-    background-color: #000000; 
+    background-color: #ffffff!important; 
     height: 20px; 
     width: 1px; 
     margin-left: 10px; 
     margin-right: 10px; 
     margin-top: auto; 
     margin-bottom: auto;
+}
+
+.bg-light{
+    background-color: #499fa4!important;
+}
+
+.navbar-brand{
+    font-family: 'Satisfy' !important;
+}
+
+.nav-link{
+    color: #d9d9d9!important;
+}
+
+.myHover:hover{
+    color: #ffffff!important;
+}
+
+.active{
+    color:  #ffffff!important;
+}
+
+@media (max-width: 991.98px) {
+    .divider{
+        height: 1px;
+        width: 20px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 0px;
+    }
 }
