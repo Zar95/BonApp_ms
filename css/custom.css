@@ -7,3 +7,34 @@
     margin-top: auto; 
     margin-bottom: auto;
 }
+
+#footer{
+	
+	margin-top: auto;
+	background-color: #2d3032;
+}
+
+.personal-color{
+	
+	color: white;
+	text-align: center;
+
+}
+
+.personal-btn{
+	margin-left: 80%;
+	
+}
+
+.email-personal{
+	
+	color: white;
+}
+
+#copyright{
+	background-color : #1f1f1f;
+	font-size: 13px;
+	text-align: center;
+	color: white;
+}
+
