@@ -32,9 +32,50 @@
 	background-position: center center;
 	background-size: cover;
 	min-height: 600px;
+	max-height: 600px;
 	background-image:url("../img/work2.jpg");
 
 }
+
+
+/*********************** Key benefits ********************/
+
+.key-benefits{
+	
+	margin-top: 3%;
+	
+}
+
+.bn-p>img{
+	
+	max-width: 48px;
+	position: relative;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+	
+}
+
+.bn-p{
+	
+	text-align: center;
+	margin-bottom:4%;
+	
+}
+
+.bn-p>h3{
+	
+	line-height: 22px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.find-more{
+	height: 33px;
+}
+
 
 
 
@@ -71,7 +112,8 @@
 }
 
 .img-social{
-	padding: 5%;
+	padding: 10px;
+	
 		
 }
 
