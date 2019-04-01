@@ -84,7 +84,7 @@
 
 #footer{
 	
-	margin-top: auto;
+	margin-top: 3%;;
 	background-color: #2d3032;
 }
 
@@ -108,11 +108,12 @@
 	
 	margin-left:15%;
 	margin-top: 8%;
+	text-align: center;
 	
 }
 
 .img-social{
-	padding: 10px;
+	margin: 10px;
 	
 		
 }
